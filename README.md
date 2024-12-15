@@ -31,11 +31,6 @@ This is a Python-based implementation of the classic Hangman game. The objective
 2. Navigate to the project folder using:
    ```bash
    cd path_to_your_project_folder
-   
-   hangman-game/
-├── milestone_5.py         # Main game script with the complete gameplay
-├── README.md              # Documentation file
-└── .gitignore             # Git ignore rules (optional)
 
 #### 6. **Testing the Game**
 Play the game to test:
