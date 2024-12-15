@@ -46,5 +46,5 @@ def play_game(word_list):
             print(f"Congratulations! You won the game. The word was: {''.join(game.word)}")
             break
 if __name__ == "__main__":
-    word_list = ["skee", "grizzlee", "banana", "skylie", "bustarhymes"]
+    word_list = ["apple", "banana", "cherry", "mango", "orange"]
     play_game(word_list)
